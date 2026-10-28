@@ -1,0 +1,6 @@
+{
+  "Name": "GitHubDemo",
+  "ProjectType": "Process",
+  "Description": " My first UiPath GitHub project",
+  "MainFile": "Main.xaml"
+}
